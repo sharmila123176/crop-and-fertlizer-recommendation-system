@@ -1,1 +1,1 @@
-# crop-recommendation
+# crop and fertlizer recommendation system using ml
